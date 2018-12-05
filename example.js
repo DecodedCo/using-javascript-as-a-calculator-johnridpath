@@ -14,4 +14,4 @@ Try completing the code below, so that it works out how much I will spend on Chr
 
 */
 
-console.log();
+console.log(2 * 3);
